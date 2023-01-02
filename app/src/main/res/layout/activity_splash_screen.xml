@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#9ff0dc"
+    tools:context=".Splash_Screen">
+
+    <TextView
+        android:id="@+id/app_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:fontFamily="@font/berkshire_swash"
+        android:text="@string/prakiirti"
+        android:textAlignment="center"
+        android:textColor="#36504D"
+        android:textColorHighlight="#49BCB1"
+        android:textColorHint="#532D2D"
+        android:textColorLink="#009688"
+        android:textSize="70sp">
+
+    </TextView>
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/splash_flower"
+        android:layout_width="match_parent"
+        android:layout_height="363dp"
+        android:layout_below="@+id/app_name"
+        android:layout_marginStart="-40dp"
+        android:layout_marginLeft="-70dp"
+        android:layout_marginEnd="-40dp"
+        android:layout_marginRight="-70dp"
+        android:layout_marginBottom="-10dp"
+        android:visibility="visible"
+        app:lottie_autoPlay="true"
+        app:lottie_fileName="not_use_dark_flower.json"
+        app:lottie_loop="true"
+        app:lottie_repeatMode="reverse"
+        tools:ignore="ImageContrastCheck" />
+
+
+</RelativeLayout>

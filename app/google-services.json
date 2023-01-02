@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424151875815",
+    "project_id": "prakiirti",
+    "storage_bucket": "prakiirti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424151875815:android:260ef443893fefc3a22242",
+        "android_client_info": {
+          "package_name": "com.example.prakiirti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424151875815-ngfp073tenoc6qu4dldsg0j5bk28rc9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7T3sGviFzsfjdc3HMD0THbY0l37rXb-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424151875815-ngfp073tenoc6qu4dldsg0j5bk28rc9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

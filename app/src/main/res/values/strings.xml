@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Prakiirti</string>
+    <string name="prakiirti">Prakiirti</string>
+    <string name="full_name">Full Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="please_sign_up_to_continue">Please Sign-Up to continue</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="sign_up">Sign-Up</string>
+    <string name="sign_up_text">Sign UP</string>
+    <string name="username">userName</string>
+    <string name="title">Title</string>
+    <string name="suggestion">Suggestion</string>
+    <string name="suggest">Suggest</string>
+    <string name="todo">TODO</string>
+    <string name="enter_your_registered_email">Enter your registered email</string>
+    <string name="verify">Verify</string>
+    <string name="logout">LogOut</string>
+    <string name="show_status">Show Status</string>
+    <string name="show_image">show image</string>
+    <string name="title_camera">title_camera</string>
+    <string name="story">Story</string>
+    <string name="title_gallery">title_gallery</string>
+    <string name="pick_image">pick_image</string>
+    <string name="title_suggest">Title</string>
+    <string name="add_blog">Add Blog</string>
+    <string name="title_add">Title</string>
+    <string name="write_your_blog_body_here">Write your blog body here</string>
+    <string name="add_to_blog">Add to blog</string>
+    <string name="blog_body_text">Blog body text</string>
+    <string name="edit">Edit</string>
+    <string name="delete_blog">Delete Blog</string>
+    <string name="blog_body">Blog body</string>
+    <string name="accept">Accept</string>
+    <string name="reject">Reject</string>
+    <string name="status">Status</string>
+</resources>
